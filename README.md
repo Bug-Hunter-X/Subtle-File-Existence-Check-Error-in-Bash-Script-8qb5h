@@ -1,0 +1,1 @@
+This repository contains a bash script demonstrating a subtle error related to file existence checks. The script attempts to process a file, but its handling of the case where the file is missing is flawed. The bug and its solution are provided in separate files.
